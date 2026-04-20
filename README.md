@@ -16,7 +16,7 @@ Description of projects
 3. CamelRegistry_C#:
 - 
 
-5. ShoppingCartProject_Java:
+4. ShoppingCartProject_Java:
 - I was requested to create this mini project for an intern job opportunity.
 - After learning the basics of C# and a bit of ASP.NET, I was curious about the world of Java. The two languages' syntax is quite similar and both of them are purely OOP languages
 - It also showcases basic OOP principals but this time in Java.

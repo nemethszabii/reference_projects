@@ -13,10 +13,7 @@ Description of projects
 - After learning the basics of C# at university, the next step was for me to experiment and learn a bit more about the .NET framework, ASP.NET specifically.
 - This project showcases CRUD, Dependency Injection and the usage of MVC pattern.
 
-3. CamelRegistry_C#:
-- 
-
-4. ShoppingCartProject_Java:
+3. ShoppingCartProject_Java:
 - I was requested to create this mini project for an intern job opportunity.
 - After learning the basics of C# and a bit of ASP.NET, I was curious about the world of Java. The two languages' syntax is quite similar and both of them are purely OOP languages
 - It also showcases basic OOP principals but this time in Java.

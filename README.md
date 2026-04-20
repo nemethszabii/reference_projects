@@ -3,7 +3,6 @@
 ### Hi 👋, I am Szabolcs Németh, a determined Computer Science student at Obuda University.
 ### I am focused on Software Engineering, **Java Backend** and **Full-Stack development**.
 ### Currently, I am working on my Thesis Project using the Spring Boot + React stack.
-<br />
 
 ## This repository consists of my reference projects which I have created during my studies at university.
 ---
@@ -36,5 +35,5 @@
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Socials
 * **LinkedIn:** https://www.linkedin.com/in/szabolcs-n%C3%A9meth-5a1791226/
